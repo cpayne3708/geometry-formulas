@@ -8,7 +8,7 @@ public class Homework
 {
     public static void main(String[] args)
     {
-        double a = Geometry.areaOfParallelogram(5, 4); 
+        double a = Geometry.parallelogramArea(5, 4); 
         System.out.println(a);
     }
 }
